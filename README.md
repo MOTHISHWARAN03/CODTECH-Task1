@@ -2,11 +2,11 @@ Name: MOTHISHWARAN R
 
 company: CODTECH IT SOLUTIONS
 
-ID: CT08DS392
+ID: CTO8DS392
 
 Domain: Artificial Intelligence
 
-Duration: December to January 2025
+Duration: December 2024 to January 2025
 
 Mentor: N.Santhosh
 
