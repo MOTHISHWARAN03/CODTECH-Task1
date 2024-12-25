@@ -12,6 +12,8 @@ Mentor: N.Santhosh
 
 Overview of the Code
 
+Project: DATA PROCESSING USING AI
+
 This Python script is designed for data preprocessing using Artificial Intelligence (AI) tools and techniques. It prepares a dataset for machine learning models by addressing common preprocessing steps. Below is a detailed breakdown of the code:
 
 1. Library Imports
